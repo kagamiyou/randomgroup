@@ -1,0 +1,7 @@
+D:\GITHIB\randomgroup\randomgroup\randomgroup\bin\Debug\randomgroup.exe.config
+D:\GITHIB\randomgroup\randomgroup\randomgroup\bin\Debug\randomgroup.exe
+D:\GITHIB\randomgroup\randomgroup\randomgroup\bin\Debug\randomgroup.pdb
+D:\GITHIB\randomgroup\randomgroup\randomgroup\obj\Debug\randomgroup.csprojResolveAssemblyReference.cache
+D:\GITHIB\randomgroup\randomgroup\randomgroup\obj\Debug\randomgroup.csproj.CoreCompileInputs.cache
+D:\GITHIB\randomgroup\randomgroup\randomgroup\obj\Debug\randomgroup.exe
+D:\GITHIB\randomgroup\randomgroup\randomgroup\obj\Debug\randomgroup.pdb
